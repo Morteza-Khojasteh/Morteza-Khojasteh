@@ -41,12 +41,12 @@
 
 ----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Morteza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<a href="https://github.com/Morteza-Khojasteh?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morteza-khojasteh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Morteza-Khojasteh?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morteza-khojasteh&repo=convoychat" />
+</a>
 
 [website]: https://
 [course]: http://codeyourfuture.io
