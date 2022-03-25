@@ -41,12 +41,8 @@
 
 ----
 
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morteza-khojasteh&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morteza-khojasteh&repo=convoychat" />
-</a>
+| <a href="https://github.com/morteza-khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=morteza-khojasteh&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a> | <a href="https://github.com/morteza-khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-khojasteh" alt="Most used languanges"/></a> |
+| 
 
 [website]: https://
 [course]: http://codeyourfuture.io
