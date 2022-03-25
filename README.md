@@ -42,7 +42,7 @@
 ----
 
 <a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="github stats" /></a><a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
-| 
+
 
 [website]: https://
 [course]: http://codeyourfuture.io
