@@ -4,7 +4,7 @@
 
 # Hi there, I'm Morteza 👋 
 
-- ➡️ I’m currently a Full-stack developer at <a href="https://codeyourfuture.io/"><img align="center" width="10%" src="./img/cyf_logo.png" /></a>
+- ➡️ I’m currently a Full-stack developer at <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./img/cyf_logo.png" /></a>
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in coding 
 - 👯 I’m looking to collaborative opportunities
@@ -17,7 +17,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/morteza-khojasteh/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-<br />
 <br />
 
 ### Languages and Tools:
@@ -42,7 +41,12 @@
 
 ----
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Morteza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 [website]: https://
 [course]: http://codeyourfuture.io
