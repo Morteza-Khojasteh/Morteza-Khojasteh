@@ -1,7 +1,5 @@
 <p align="center"><img width="100%" src="./img/header.jpg" /></p>
-
 <br />
-
 # Hi there, I'm Morteza 👋 
 
 - ➡️ I’m currently a Full-stack developer at <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./img/cyf_logo.png" /></a>
@@ -21,7 +19,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
@@ -37,11 +34,10 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <br />
-<br />
 
 ----
 
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="github stats" /></a>  <a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
+<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="github stats" /></a>&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
 
 
 [website]: https://
