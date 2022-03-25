@@ -1,5 +1,6 @@
 <p align="center"><img width="100%" src="./img/header.jpg" /></p>
 <br />
+
 # Hi there, I'm Morteza 👋 
 
 - ➡️ I’m currently a Full-stack developer at <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./img/cyf_logo.png" /></a>
@@ -13,8 +14,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/morteza-khojasteh/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/morteza-khojasteh/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 <br />
 
 ### Languages and Tools:
@@ -37,7 +36,7 @@
 
 ----
 
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="github stats" /></a>&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
+<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
 
 
 [website]: https://
