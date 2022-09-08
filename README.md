@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./img/header.jpg" /></p>
+<p align="center"><!--<img width="100%" src="./img/header.jpg" />--></p>
 <br />
 
 # Hi there, I'm Morteza 👋 
