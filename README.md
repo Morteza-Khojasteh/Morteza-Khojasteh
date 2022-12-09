@@ -37,7 +37,7 @@
 
 
 [website]: https://
-[course]: http://codeyourfuture.io
+<!-- [course]: http://codeyourfuture.io -->
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
