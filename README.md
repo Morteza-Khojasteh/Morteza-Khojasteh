@@ -33,7 +33,7 @@
 
 ----
 
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
+<!-- <a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a> -->
 
 
 [website]: https://
