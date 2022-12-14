@@ -1,10 +1,10 @@
 <p align="center"><!--<img width="100%" src="./img/header.jpg" />--></p>
 <br />
 
-# Hi there, I'm Morteza 👋 
+# Hi there 👋 
 
 <!-- - ➡️ I’m currently a Full-stack developer at <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./img/cyf_logo.png" /></a> -->
-- 🌱 I’m currently learning everything 👀
+- 🌱 I’m currently learning everything 
 <!-- - 👀 I’m interested in coding 
 - 👯 I’m looking to collaborative opportunities
 - ❤️🤣 I love to travel <span style="font-size:25px;">✈️</span> -->
